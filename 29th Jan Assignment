@@ -1,0 +1,39 @@
+Python Basics Question:
+1. Who Developed Python Programming Language? A. Guido van Rossum developed Python Programming Language .
+2. Which type of programming does python support?
+A. Python support Object-oriented Programming and structured programming .
+3. Is python case sensitive when dealing with identifiers?
+A. Yes , python is case sensitive language.
+4. What is the correct extension of python file? A. .py is the extension of python file and .ipynb is the extension of ipython notebook.
+5. Is python code compiled or interpreted?
+A. Python is an interpreted language, which means the source code of a Python program is converted into bytecode that is then executed by the Python virtual machine.
+6. Name a few blocks of code used to define python programming language?
+A. Indentation is used to define block of code in python.
+For Ex: a=20
+If a>10:
+Print(“a is greater than 10”)
+else :
+print(“a is less than 10”)
+In this above example to define indentation for if block we used tab space or 4 spaces .
+7. State a character used to give single-line comments in python?
+A. # character is used to give single-line comments in python.
+8. Mention functions which can help us to find the version of python that we are currently working on?
+A. The function sys. version can help us to find the version of python that we are currently working on.
+9. Python supports the creation of anonymous functions at runtime ,using a construct called? A. Lambda
+10. What does pip stand for python?
+A. PIP - Preferred Installer Program, it is a command-line utility that installs, reinstalls, or uninstalls PyPI packages .
+11. Mention a few built-in functions in python?
+A. print(),type(),id(),sum(),max(),min(),len() are few built-in functions in python.
+12. What is the maximum possible length of an identifier in python?
+A. An identifier can have a maximum length of 79 characters in Python.
+13. What are the benefits of using python?
+A. Python is simple to use and understand , dynamically typed , Free and open source, portability etc
+14. How is memory managed in python?
+A. Memory in Python is managed by Python private heap space. All Python objects and data structures are located in a private heap. This private heap is taken care of by Python Interpreter itself, and a programmer doesn't have access to this private heap.
+15. How to install python on windows and set path variables?
+A. Open the official Python website in your web browser. And download the latest python version
+Run the Executable installer.
+Add Python to PATH environmental variables
+To verify the python installation through the command line. Open command prompt and type “python”.
+16. Is indentation required in python?
+A. Indentation is mandatory in python to define the blocks of statements. The number of spaces must be uniform in a block of code. It is preferred to use whitespaces instead of tabs to indent in python.
